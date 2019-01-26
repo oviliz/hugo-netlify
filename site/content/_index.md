@@ -1,12 +1,13 @@
 ---
-title: >-
-  Gaius mine host, and of the whole church, saluteth you. Erastus the
-  chamberlain of the city saluteth you, and Quartus a brother.
-subtitle: 'Romans 16:23'
+title: Hosting for Jesus
+subtitle: Hosting websites for Christian churches and ministries
 image: /img/timothy-eberly-769982-unsplash.jpg
 blurb:
   heading: Why Hosting for Jesus?
-  text: We're dedicated to serve ministries
+  text: >-
+    We're committed Christians with over 20 years experience with hosting,
+    security and IT in general. We care about spreading the Gospel and we love
+    ministries that share the same.
 intro:
   heading: What we offer
   text: >-
