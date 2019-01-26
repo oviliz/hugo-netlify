@@ -5,7 +5,8 @@ contact_entries:
   - heading: Location
     text: >-
       In case you wondered, we are based in the UK, home of the Authorized
-      Version of the King James Bible.
+      Version of the King James Bible. However, we can host in data centres in
+      the US, UK, Europe and Asia.
 ---
 We’d love to get in touch with you and hear your ideas and
 questions. We strive to improve constantly and your feedback
