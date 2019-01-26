@@ -1,7 +1,7 @@
 ---
 title: Hosting for Jesus
 subtitle: Hosting websites for Christian churches and ministries
-image: /img/timothy-eberly-769982-unsplash.jpg
+image: /img/hosting_for_jesus_king_james_bible_1920x1080.jpg
 blurb:
   heading: Why Hosting for Jesus?
   text: >-
