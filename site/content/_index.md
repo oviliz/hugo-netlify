@@ -7,7 +7,7 @@ blurb:
   text: >-
     We're committed Christians with over 20 years experience with hosting,
     security and IT in general. We care about spreading the Gospel and we love
-    ministries that share the same.
+    and want to help ministries that share the same interest.
 intro:
   heading: What we offer
   text: >-
