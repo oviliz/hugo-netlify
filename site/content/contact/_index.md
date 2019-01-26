@@ -14,4 +14,4 @@ is valuable for us.
 
 <h3 class="f4 b lh-title mb2">How can I get…?</h3>
 
-You can also use the form below for any hosting inquiries, monthly subscriptions and even scheduling a 1-on-1 session with one of us. Don’t be shy, drop us a line!
+You can also use the form below for any hosting inquiries, monthly subscriptions and even scheduling a Skype or WhatsApp session with one of us. Send us an email at [info@hostingforJesus.com](info@hostingforJesus.com) or drop us a line using the form below!
