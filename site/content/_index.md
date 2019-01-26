@@ -1,8 +1,8 @@
 ---
 title: Hosting for Jesus
 subtitle: >-
-  Hosting websites for Christian churches and ministries that love Jesus and are
-  interested in spreading the gospel to every creature.
+  Hosting websites for Christian churches and ministries that love the Lord
+  Jesus and are interested in spreading the gospel to every creature.
 image: /img/hosting_for_jesus_king_james_bible_1920x1080.jpg
 blurb:
   heading: Why Hosting for Jesus?
