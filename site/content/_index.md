@@ -17,7 +17,7 @@ intro:
     java’s origin and support the farmers that grew it. We take coffee
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone.
-products:
+hosting:
   - image: img/illustrations-coffee.svg
     text: >-
       We sell green and roasted coffee beans that are sourced directly from
@@ -39,4 +39,3 @@ values:
     want to turn this around and return the coffee trade to the drink’s
     exhilarating, empowering and unifying nature.
 ---
-
