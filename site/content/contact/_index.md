@@ -3,7 +3,9 @@ title: Contact
 logo: /img/logo.svg
 contact_entries:
   - heading: Location
-    text: 'In case you wondered, we are based in Birmingham, UK'
+    text: >-
+      In case you wondered, we are based in the UK, home of the Authorized
+      Version of the King James Bible.
 ---
 We’d love to get in touch with you and hear your ideas and
 questions. We strive to improve constantly and your feedback
