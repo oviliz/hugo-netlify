@@ -3,7 +3,7 @@ title: Our Coffee
 image: /img/products-jumbotron.jpg
 heading: What we offer
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
+  Hosting for Jesus is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
   roasting and brewing seriously and we’re glad to pass that knowledge to
   anyone.
@@ -58,7 +58,7 @@ main:
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
+      The first time I tried Hosting for Jesus’s coffee, I couldn’t even believe that was
       the same thing I’ve been drinking every morning.
 full_image: /img/hosting_for_jesus_sheeps_1920x1080.jpg
 pricing:
