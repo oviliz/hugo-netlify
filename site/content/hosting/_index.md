@@ -71,25 +71,25 @@ pricing:
     at all, we understand that too. Please contact us for more details or if you
     want to know technical aspects.
   plans:
-    - description: If you only have a static website.
+    - description: If you only have a static website you will get...
       items:
-        - Fast and secure
-        - Free SSL certificate
-        - No boring technicalities
+        - fast loading
+        - free SSL certificate
+        - no boring technicalities
       plan: Small
       price: '1'
-    - description: Do you have a WordPress website? We like WordPress!
+    - description: Do you have a WordPress website? We like WordPress and are...
       items:
-        - Security minded
-        - Latest updates
-        - You just manage your content
+        - security minded
+        - automating updates
+        - looking into the details
       plan: WordPress
       price: '3'
-    - description: Is your website more complex or you don't know?
+    - description: Is your website more complex or you don't know? We can...
       items:
-        - We read complex configurations
-        - We work with latest technologies
-        - Host pretty much anything
+        - read complex configurations
+        - work with latest technologies
+        - host pretty much anything
       plan: Custom
       price: '?'
 ---
