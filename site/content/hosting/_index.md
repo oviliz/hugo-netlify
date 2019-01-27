@@ -65,10 +65,10 @@ pricing:
   heading: Monthly subscriptions
   description: >-
     Websites are not all the same but we try a great deal to help everyone.
-    These are some examples of what you could pay monthly hosting with us. We're
-    not here to make a profit out of your ministry but we try to cover some of
-    the costs. However, if your ministry doesn't have any income at all, we
-    understand that too. Please contact us about more details.
+    These are some examples of what you could be paying for hosting with us.
+    We're not here to make a profit out of your ministry but we try to cover at
+    least some of the costs. However, if your ministry doesn't have any income
+    at all, we understand that too. Please contact us for more details.
   plans:
     - description: If you only have a static website.
       items:
