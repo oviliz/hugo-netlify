@@ -30,12 +30,16 @@ values:
       That’s why we reinvest 20% of our profits into farms, local businesses and
       schools everywhere our coffee is grown. You can see the communities grow
       and learn more about coffee farming on our blog.
-  - heading: Reinvest profits
+  - heading: We don't host everybody
     imageUrl: /img/about-reinvest-profits.jpg
-    text: >
-      We want to truly empower the communities that bring amazing coffee to you.
-      That’s why we reinvest 20% of our profits into farms, local businesses and
-      schools everywhere our coffee is grown. You can see the communities grow
-      and learn more about coffee farming on our blog.
+    text: >-
+      Sorry, but we can't host everybody and Galatians 5:4 should give you a
+      hint (and hopefully a thought): "Christ is become of no effect unto you,
+      whosoever of you are justified by the law; ye are fallen from grace."
+      Also, Ephesians 2:8-9 states: "For by grace are ye saved through faith;
+      and that not of yourselves: it is the gift of God: Not of works, lest any
+      man should boast."
+
+      If you don't understand, please get in touch.
 ---
 
