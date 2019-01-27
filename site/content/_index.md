@@ -2,7 +2,7 @@
 title: Hosting for Jesus
 subtitle: >-
   Hosting websites for Christian churches and ministries that love the Lord
-  Jesus and are active in spreading the gospel.
+  Jesus, his word and are active in spreading the gospel.
 image: /img/hosting_for_jesus_king_james_bible_1920x1080.jpg
 blurb:
   heading: Why Hosting for Jesus?
@@ -15,10 +15,10 @@ blurb:
 intro:
   heading: What we offer
   text: >-
-    Hosting for Jesus is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+    Hosting for Jesus is the ultimate spot for coffee lovers who want to learn
+    about their java’s origin and support the farmers that grew it. We take
+    coffee production, roasting and brewing seriously and we’re glad to pass
+    that knowledge to anyone.
 hosting:
   - image: img/illustrations-coffee.svg
     text: >-
@@ -41,3 +41,4 @@ values:
     want to turn this around and return the coffee trade to the drink’s
     exhilarating, empowering and unifying nature.
 ---
+
