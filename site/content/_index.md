@@ -9,8 +9,8 @@ blurb:
   text: >-
     We are a committed Christian family with over 20 years experience within the
     hosting industry, also dealing with security and IT in general. We want to
-    share the knowledge we've been blessed with and help ministries interested
-    in spreading the gospel in these last days.
+    share the knowledge we've been blessed with and help anyone interested in
+    spreading the gospel in these last days.
 intro:
   heading: What we offer
   text: >-
