@@ -3,10 +3,10 @@ title: Our Coffee
 image: /img/products-jumbotron.jpg
 heading: What we offer
 description: >-
-  Hosting for Jesus is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Hosting for Jesus is the ultimate spot for coffee lovers who want to learn
+  about their java’s origin and support the farmers that grew it. We take coffee
+  production, roasting and brewing seriously and we’re glad to pass that
+  knowledge to anyone.
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
@@ -58,15 +58,17 @@ main:
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-
-      The first time I tried Hosting for Jesus’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
+      The first time I tried Hosting for Jesus’s coffee, I couldn’t even believe
+      that was the same thing I’ve been drinking every morning.
 full_image: /img/hosting_for_jesus_sheeps_1920x1080.jpg
 pricing:
   heading: Monthly subscriptions
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    Websites are not all the same but we try a great deal to help everyone.
+    These are some examples of what you could pay monthly hosting with us. We're
+    not here to make a profit out of your ministry but we try to cover some of
+    the costs. However, if your ministry doesn't have any income at all, we
+    understand that too. Please contact us about more details.
   plans:
     - description: If you only have a static website.
       items:
@@ -75,9 +77,9 @@ pricing:
         - One or two varieties of beans"
       plan: Small
       price: '1'
-    - description: Do you have a WordPress website? That's very common.
+    - description: Do you have a WordPress website? We like WordPress!
       items:
-        - 6 lbs of coffee per month
+        - Would load very fast
         - Green or roasted beans
         - ''
       plan: WordPress
