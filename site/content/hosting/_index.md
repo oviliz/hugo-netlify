@@ -1,5 +1,5 @@
 ---
-title: Our Coffee
+title: The hosting recipe
 image: /img/products-jumbotron.jpg
 heading: What we offer
 description: >-
