@@ -4,11 +4,12 @@ image: /img/hosting_for_jesus_king_james_bible_1920x1080.jpg
 values:
   - heading: Shade-grown coffee
     imageUrl: /img/about-shade-grown.jpg
-    text: >
-      Coffee is a small tree or shrub that grows in the forest understory in its
-      wild form, and traditionally was grown commercially under other trees that
-      provided shade. The forest-like structure of shade coffee farms provides
-      habitat for a great number of migratory and resident species.
+    text: >-
+      We 
+
+
+      want to help ministries that are Jesus centred and preaching salvation by
+      faith alone in the Son of God.
   - heading: Single origin
     imageUrl: /img/about-single-origin.jpg
     text: >
@@ -40,6 +41,6 @@ values:
       and that not of yourselves: it is the gift of God: Not of works, lest any
       man should boast."
 
-      If you don't understand, please get in touch.
+      If you don't understand, please get in touch and will try to do better.
 ---
 
