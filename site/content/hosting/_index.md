@@ -74,8 +74,8 @@ pricing:
     - description: If you only have a static website.
       items:
         - Fast and secure
-        - Green or roasted beans"
-        - One or two varieties of beans"
+        - Free SSL certificate
+        - No boring technicalities
       plan: Small
       price: '1'
     - description: Do you have a WordPress website? We like WordPress!
