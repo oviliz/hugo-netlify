@@ -88,7 +88,7 @@ pricing:
     - description: Is your website more complex or you don't know?
       items:
         - We read complex configurations
-        - Not afraid of latest technologies
+        - We work with latest technologies
         - Host pretty much anything
       plan: Custom
       price: '?'
