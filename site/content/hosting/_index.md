@@ -68,7 +68,8 @@ pricing:
     These are some examples of what you could be paying for hosting with us.
     We're not here to make a profit out of your ministry but we try to cover at
     least some of the costs. However, if your ministry doesn't have any income
-    at all, we understand that too. Please contact us for more details.
+    at all, we understand that too. Please contact us for more details and if
+    you want to know technicalities.
   plans:
     - description: If you only have a static website.
       items:
@@ -79,15 +80,15 @@ pricing:
       price: '1'
     - description: Do you have a WordPress website? We like WordPress!
       items:
-        - Would load very fast
-        - Green or roasted beans
-        - ''
+        - Security minded
+        - Obviously fast
+        - Latest updates
       plan: WordPress
       price: '3'
     - description: Is your website more complex or you don't know?
       items:
-        - Vast experience
-        - Complex configuration
+        - We read complex configurations
+        - Not afraid of latest technologies
         - Host pretty much anything
       plan: Custom
       price: '?'
