@@ -2,14 +2,15 @@
 title: Values
 image: /img/hosting_for_jesus_king_james_bible_1920x1080.jpg
 values:
-  - heading: Shade-grown coffee
+  - heading: Faith
     imageUrl: /img/about-shade-grown.jpg
     text: >-
-      We 
+      We are Bible-believing Christians. That means we never ‘correct’ or change
+      the word of God, we believe it!
 
 
-      want to help ministries that are Jesus centred and preaching salvation by
-      faith alone in the Son of God.
+      We want to help ministries that are Jesus centred and preaching salvation
+      by faith alone in the Son of God.
   - heading: Single origin
     imageUrl: /img/about-single-origin.jpg
     text: >
