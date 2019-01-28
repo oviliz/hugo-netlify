@@ -5,9 +5,11 @@ values:
   - heading: Faith
     imageUrl: /img/about-shade-grown.jpg
     text: >-
-      We are Bible-believing Christians. That means we never ‘correct’ or change
-      the word of God, we believe it! We also do believe that Jesus is the Son
-      of God (e.g. John 9:35-38) and God (e.g. Colossians 1:11-16).
+      We are Bible-believing Christians. We do also believe that Jesus is the
+      Son of God (e.g. John 9:35-38) and God (e.g. Colossians 1:11-16) and is by
+      faith in him alone that we are justified.
+
+      1 Corinthians 15:1-4
 
 
       We want to help ministries that are Jesus centred and preaching salvation
