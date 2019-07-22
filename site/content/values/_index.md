@@ -15,7 +15,7 @@ values:
       We want to help ministries that are Jesus centred and preaching salvation
       by faith alone in the Son of God.
   - heading: We don't host everybody
-    imageUrl: /img/foxe-s_book_of_martyrs_-_roped_peasantscut.jpg
+    imageUrl: /img/foxe-s_book_of_martyrs_-_tyndalecut.jpg
     text: >-
       Sorry, but we can't host everybody and Galatians 5:4 should give you a
       hint (and hopefully a thought): "Christ is become of no effect unto you,
