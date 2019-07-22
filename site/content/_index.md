@@ -3,7 +3,7 @@ title: Hosting for Jesus
 subtitle: >-
   Hosting websites for Christian churches and ministries that love the Lord
   Jesus, his word and are active in spreading the gospel. 1 Corinthians 15:1-4
-image: /img/hosting_for_jesus_king_james_bible_1920x1080.jpg
+image: /img/peter-ruckman_crosscut.jpg
 blurb:
   heading: Why Hosting for Jesus?
   text: >-
