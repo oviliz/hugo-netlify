@@ -13,31 +13,24 @@ blurb:
     spreading the gospel in these last days.
 intro:
   heading: What we offer
-  text: >-
-    Hosting for Jesus is the ultimate spot for coffee lovers who want to learn
-    about their java’s origin and support the farmers that grew it. We take
-    coffee production, roasting and brewing seriously and we’re glad to pass
-    that knowledge to anyone.
+  text: Hosting services run and trustworthy supported by Christians.
 hosting:
-  - image: img/illustrations-coffee.svg
+  - image: ''
     text: >-
-      We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
-  - image: /img/illustrations-coffee-gear.svg
+      Without boring you with technicalities, we've been working in the hosting
+      industry for many years so we (should) know what's all about. We're happy
+      to share specific details on request.
+  - image: ''
     text: >-
-      We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+      If you have a website for your church or ministry, you would likely be
+      paying a secular hosting company to look after you. We would love taking
+      you on board!
 values:
   heading: Our values
   text: >-
-    Coffee is an amazing part of human culture but it has a dark side too – one
-    of colonialism and mindless abuse of natural resources and human lives. We
-    want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+    We are Bible-believing Christians. We do also believe that Jesus is the Son
+    of God (e.g. John 9:35-38) and God (e.g. Colossians 1:11-16) and is by faith
+    in Him alone that we are justified. We want to help ministries that are
+    Jesus centred and preaching salvation by faith alone in the Son of God.
 ---
 
