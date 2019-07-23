@@ -33,7 +33,7 @@ intro:
     revenue at any cost, reviewing yearly turnover and setting a new higher
     target.
 main:
-  heading: Most likely better than your secular hosting company
+  heading: Most likely better than your secular hosting
   description: >-
     If you have a website for your church or ministry, you would likely be
     paying a secular hosting company to look after you. We would love taking you
