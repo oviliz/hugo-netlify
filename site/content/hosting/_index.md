@@ -3,29 +3,35 @@ title: The hosting recipe
 image: /img/hosting_for_jesus_sheeps_1920x1080.jpg
 heading: What we offer
 description: >-
-  Hosting for Jesus is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+  First of all, honesty. We are not a classic hosting business aiming at revenue
+  at any cost, reviewing yearly turnover and setting a new higher target.
 intro:
   blurbs:
-    - image: /img/illustrations-coffee.svg
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/illustrations-coffee-gear.svg
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+    - text: >-
+        No technicalities. Most of the Christians behind a ministry we know,
+        don't have time nor experience to manage their hosting appropriately. We
+        like to simplify and minimise things so you have more time for your
+        ministry.
+    - image: ''
+      text: >-
+        We are meticulous with security and there's never enough. We go as far
+        as applying security patches to your website if we find out is needed.
+        Rest assured that we advise you about it anyway and there's no
+        additional cost.
+    - image: ''
+      text: >-
+        Although the servers require restarting from time to time due to needed
+        maintenance, we stand by at least 99.9% uptime in any case, which is an
+        industry-standard.
+    - text: >-
+        As above, we go beyond what a classic hosting company would limit
+        themselves to. If we can work together to improve your website, we're
+        more than happy to help. We try to abide by Colossians 3:23.
   heading: What we offer
   description: >-
-    First of all, honesty. We are not a classic hosting business looking aiming
-    at revenue, reviewing yearly the turnover and setting a new higher target.
+    First of all, honesty. We are not a classic hosting business aiming at
+    revenue at any cost, reviewing yearly turnover and setting a new higher
+    target.
 main:
   heading: Great hosting with no compromises
   description: >-
@@ -33,19 +39,17 @@ main:
     the shrub to the cup. That’s why we’re meticulous and transparent about each
     step of the coffee’s journey.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: Hosting for Jesus is run by Bible believers Christians
+    image: /img/foxe-s_book_of_martyrs_-_tyndalecut.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/foxe-s_book_of_martyrs_-_roped_peasantscut.jpg
   image3:
     alt: Coffee beans
     image: ''
 testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: >-
-      The first time I tried Hosting for Jesus’s coffee, I couldn’t even believe
-      that was the same thing I’ve been drinking every morning.
+  - author: 'John Davis, Time for Truth!'
+    quote: bla bla bla
 full_image: /img/peter-ruckman_crosscut.jpg
 pricing:
   heading: Monthly subscriptions
