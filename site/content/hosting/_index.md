@@ -39,14 +39,14 @@ main:
     paying a secular hosting company to look after you. We would love taking you
     on board!
   image1:
-    alt: Hosting for Jesus is run by Bible believers Christians
-    image: /img/foxe-s_book_of_martyrs_-_tyndalecut.jpg
-  image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/foxe-s_book_of_martyrs_-_roped_peasantscut.jpg
-  image3:
-    alt: Coffee beans
+    alt: ''
     image: ''
+  image2:
+    alt: ''
+    image: ''
+  image3:
+    alt: Hosting for Jesus is run by Bible believers Christians
+    image: /img/peter-ruckman_monarchcut.jpg
 testimonials:
   - author: 'John Davis, Time for Truth!'
     quote: bla bla bla
