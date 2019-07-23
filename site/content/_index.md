@@ -33,4 +33,3 @@ values:
     in Him alone that we are justified. We want to help ministries that are
     Jesus centred and preaching salvation by faith alone in the Son of God.
 ---
-
