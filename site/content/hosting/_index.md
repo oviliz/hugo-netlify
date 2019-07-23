@@ -38,12 +38,6 @@ main:
     If you have a website for your church or ministry, you would likely be
     paying a secular hosting company to look after you. We would love taking you
     on board!
-  image1:
-    alt: ''
-    image: ''
-  image2:
-    alt: ''
-    image: ''
   image3:
     alt: Hosting for Jesus is run by Bible believers Christians
     image: /img/peter-ruckman_monarchcut.jpg
