@@ -33,11 +33,11 @@ intro:
     revenue at any cost, reviewing yearly turnover and setting a new higher
     target.
 main:
-  heading: Great hosting with no compromises
+  heading: Most likely better than your secular hosting company
   description: >-
-    Although this is a family run service, we pretend the highest standards from
-    the shrub to the cup. That’s why we’re meticulous and transparent about each
-    step of the coffee’s journey.
+    If you have a website for your church or ministry, you would likely be
+    paying a secular hosting company to look after you. We would love taking you
+    on board!
   image1:
     alt: Hosting for Jesus is run by Bible believers Christians
     image: /img/foxe-s_book_of_martyrs_-_tyndalecut.jpg
