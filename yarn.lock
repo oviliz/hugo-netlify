@@ -1866,7 +1866,7 @@ cacache@^11.3.2:
     rimraf "^2.6.3"
     ssri "^6.0.1"
     unique-filename "^1.1.1"
-    y18n "^4.0.0"
+    y18n "^4.0.1"
 
 cache-base@^1.0.1:
   version "1.0.1"
@@ -10877,9 +10877,9 @@ xtend@^4.0.0, xtend@^4.0.1, xtend@~4.0.1:
   resolved "https://registry.yarnpkg.com/xtend/-/xtend-4.0.2.tgz#bb72779f5fa465186b1f438f674fa347fdb5db54"
   integrity sha512-LKYU1iAXJXUgAXn9URjiu+MWhyUXHsvfp7mcuYm9dSUKK0/CjtrUwFAxD82/mCWbtLsGjFIad0wIsod4zrTAEQ==
 
-"y18n@^3.2.1 || ^4.0.0", y18n@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/y18n/-/y18n-4.0.0.tgz#95ef94f85ecc81d007c264e190a120f0a3c8566b"
+"y18n@^3.2.1 || ^4.0.1", y18n@^4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/y18n/-/y18n-4.0.1.tgz#95ef94f85ecc81d007c264e190a120f0a3c8566b"
   integrity sha512-r9S/ZyXu/Xu9q1tYlpsLIsa3EeLXXk0VwlxqTcFRfg9EhMW+17kbt9G0NrgCmhGb5vT2hyhJZLfDGx+7+5Uj/w==
 
 yallist@^2.1.2:
@@ -10941,7 +10941,7 @@ yargs@12.0.5:
     set-blocking "^2.0.0"
     string-width "^2.0.0"
     which-module "^2.0.0"
-    y18n "^3.2.1 || ^4.0.0"
+    y18n "^3.2.1 || ^4.0.1"
     yargs-parser "^11.1.1"
 
 yargs@13.2.4:
@@ -10958,7 +10958,7 @@ yargs@13.2.4:
     set-blocking "^2.0.0"
     string-width "^3.0.0"
     which-module "^2.0.0"
-    y18n "^4.0.0"
+    y18n "^4.0.1"
     yargs-parser "^13.1.0"
 
 yargs@^13.3.2:
@@ -10974,7 +10974,7 @@ yargs@^13.3.2:
     set-blocking "^2.0.0"
     string-width "^3.0.0"
     which-module "^2.0.0"
-    y18n "^4.0.0"
+    y18n "^4.0.1"
     yargs-parser "^13.1.2"
 
 yauzl@^2.4.2:
